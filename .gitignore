@@ -1,0 +1,13 @@
+# 計測データ・レポート (宅内IP・経路・通信履歴を含むため公開しない)
+logs/
+reports/
+
+# 個人的な下書き
+drafts/
+
+# OS / エディタ
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+*.lnk
